@@ -10,9 +10,9 @@ team:
   enable: true
   title: My Team
   team_member:
-  - title: Member 1
-    image: images/team/member-1.png
-    designation: Caster
+  - title: Claire 'Dione' Ibarra
+    image: images/team/claire.jpg
+    designation: Sample description.
 clients_logo_slider:
   enable: true
   title: My Clients

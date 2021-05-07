@@ -12,68 +12,65 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Creativity
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Sample skill 1
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: Sample skills 2
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Microsoft Office
+    progress: 85%
     color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: Sample Experience
+    company: Sample Company
+    duration: Jul 2017 - Present
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: Esports Caster and Content Creator
+    company: Freelance
+    duration: Jul 2017 - Present
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: Social Media, Community, and Team Manager
+    company: Freelance
+    duration: Jul 2017 - Present
 education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Masters
+    year: "2020"
+    academy: Bunak International
+  - title: Bachelor of Arts in History, Minor in Education
+    year: "2015"
+    academy: Ateneo de Manila University
+  - title: Secondary Education
+    year: "2015"
+    academy: Orca Ninja School
+  - title: Primary Education
+    year: "2007"
+    academy: Bunak Primary school
 service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Caster
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Sample description
     highlighted: false
-  - title: UX Design
+  - title: Model
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Sample description
     highlighted: true
-  - title: Interaction Design
+  - title: Massage :)
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Sample description
     highlighted: false
 portfolio:
   enable: true
@@ -84,35 +81,31 @@ testimonial:
   title: Testimonials
   item:
   - name: ''
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+    image: images/testimonial/Ogame_Joshua_picture.png
+    designation: CEO, Blizzard
+    content: Nice galing.
 clients_logo_slider:
   enable: true
   item:
-  - logo: images/clients-logo/client-logo-1.png
+  - logo: images/clients-logo/client-ppgl.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: images/clients-logo/client-ppgl.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-3.png
+  - logo: images/clients-logo/client-ppgl.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-4.png
+  - logo: images/clients-logo/client-ppgl.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-5.png
+  - logo: images/clients-logo/client-ppgl.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-1.png
+  - logo: images/clients-logo/client-dakstransparent.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: images/clients-logo/client-dakstransparent.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-3.png
+  - logo: images/clients-logo/client-dakstransparent.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-4.png
+  - logo: images/clients-logo/client-dakstransparent.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
+  - logo: images/clients-logo/client-dakstransparent.png
     URL: "#"
 blog:
   enable: true
