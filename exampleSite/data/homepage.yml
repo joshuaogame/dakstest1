@@ -64,11 +64,11 @@ service:
     icon: ti-palette
     content: Sample description
     highlighted: false
-  - title: Model
+  - title: Sample service 2
     icon: ti-vector
     content: Sample description
     highlighted: true
-  - title: Massage :)
+  - title: Sample service 3
     icon: ti-panel
     content: Sample description
     highlighted: false
@@ -81,7 +81,7 @@ testimonial:
   title: Testimonials
   item:
   - name: ''
-    image: images/testimonial/Ogame_Joshua_picture.png
+    image: images/testimonial/Ogame_Joshua_picture.jpg
     designation: CEO, Blizzard
     content: Nice galing.
 clients_logo_slider:
@@ -97,15 +97,15 @@ clients_logo_slider:
     URL: "#"
   - logo: images/clients-logo/client-ppgl.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-dakstransparent.png
+  - logo: images/clients-logo/dakstransparent.png
     URL: "#"
-  - logo: images/clients-logo/client-dakstransparent.png
+  - logo: images/clients-logo/dakstransparent.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-dakstransparent.png
+  - logo: images/clients-logo/dakstransparent.png
     URL: "#"
-  - logo: images/clients-logo/client-dakstransparent.png
+  - logo: images/clients-logo/dakstransparent.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-dakstransparent.png
+  - logo: images/clients-logo/dakstransparent.png
     URL: "#"
 blog:
   enable: true
