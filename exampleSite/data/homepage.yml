@@ -95,6 +95,12 @@ clients_logo_slider:
     URL: "#"
   - logo: images/clients-logo/client-tv5.png
     URL: "#"
+  - logo: images/clients-logo/client-predator.png
+    URL: "#"
+  - logo: images/clients-logo/client-steelseries.png
+    URL: "#"
+  - logo: images/clients-logo/client-zowie.png
+    URL: "#"
 blog:
   enable: true
   title: Blogs
