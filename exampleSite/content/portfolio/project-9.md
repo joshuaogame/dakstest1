@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-7.png"
 client: "Grandi"
 project_url : "https://examplesite.com/"
-categories: ["branding"]
+categories: ["Pokemon"]
 description: "This is meta description."
 draft: false
 ---
