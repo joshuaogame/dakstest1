@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Daks <br> I cast video games.
+  title: Hi! I’m Daks <br> I cast video games.
 about:
   enable: true
   content: Hello. I cast video games.
@@ -95,7 +95,7 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: images/clients-logo/client-aorus.png
     URL: "#"
-  - logo: images/clients-logo/client-legion.png
+  - logo: images/clients-logo/client-legion.jpg
     URL: http://examplesite.com
   - logo: images/clients-logo/client-mineski.png
     URL: "#"
