@@ -80,7 +80,7 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: ''
+  - name: 'Grand'
     image: images/testimonial/Ogame_Joshua_picture.jpg
     designation: CEO, Blizzard
     content: Nice galing.
