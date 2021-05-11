@@ -65,7 +65,7 @@ preloader = "images/preloader.gif"
 URL = "https://www.facebook.com/DaksCasts"
 icon = "ti-facebook"
 [[params.social]]
-URL = "daksrosales@gmail.com"
+URL = "mailto:daksrosales@gmail.com"
 icon = "ti-email"
 [[params.social]]
 URL = "https://steamcommunity.com/id/daks628"
