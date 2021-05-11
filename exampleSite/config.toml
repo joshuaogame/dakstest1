@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "daksrosales@gmail.com"
 google_analytics_id = ""
 home = "Home"
-logo = ""
+logo = "images/favicon.png"
 phone = "(+63)922-885-3268"
 theme_color = "#4ca64c"
 [params.contact]
