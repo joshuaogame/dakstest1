@@ -62,14 +62,14 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/DaksCasts"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
+URL = "daksrosales@gmail.com"
+icon = "ti-email"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
+URL = "https://steamcommunity.com/id/daks628"
+icon = "ti-game"
 [[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+URL = "https://www.twitch.tv/daksph"
+icon = "ti-video-camera"
