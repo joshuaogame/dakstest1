@@ -87,25 +87,25 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: images/clients-logo/client-ppgl.png
+  - logo: images/clients-logo/client-blizzard.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-ppgl.png
+  - logo: images/clients-logo/client-riotgames.png
     URL: "#"
-  - logo: images/clients-logo/client-ppgl.png
+  - logo: images/clients-logo/client-amd.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-ppgl.png
+  - logo: images/clients-logo/client-aorus.png
     URL: "#"
-  - logo: images/clients-logo/client-ppgl.png
+  - logo: images/clients-logo/client-legion.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/dakstransparent.png
+  - logo: images/clients-logo/client-mineski.png
     URL: "#"
-  - logo: images/clients-logo/dakstransparent.png
+  - logo: images/clients-logo/client-predator.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/dakstransparent.png
+  - logo: images/clients-logo/client-steelseries.png
     URL: "#"
-  - logo: images/clients-logo/dakstransparent.png
+  - logo: images/clients-logo/client-zowie.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/dakstransparent.png
+  - logo: images/clients-logo/client-tv5.png
     URL: "#"
 blog:
   enable: true
