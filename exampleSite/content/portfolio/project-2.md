@@ -1,10 +1,10 @@
 ---
-title: "Sample project 2"
-date: 2019-05-12T12:14:34+06:00
+title: "Apex Legends Cup #2"
+date: 2019-04-12T12:14:34+06:00
 image: "images/portfolio/item-2.png"
-client: "Grandado"
-project_url : "https://examplesite.com/"
-categories: ["Valorant"]
+client: "Apex Arena & The Plays GG"
+project_url : "https://www.twitch.tv/videos/435178280"
+categories: ["Apex Legends"]
 description: "This is meta description."
 draft: false
 ---

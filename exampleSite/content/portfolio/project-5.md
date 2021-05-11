@@ -1,10 +1,10 @@
 ---
-title: "Sample project 5"
+title: "PGP Roll Play Gaming Lounge VGC 2020 Tournament"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-8.png"
-client: "G"
-project_url : "https://examplesite.com/"
-categories: ["Starcraft II"]
+client: "PGP"
+project_url : "https://www.facebook.com/watch/live/?v=2914979321912894&ref=watch_permalink"
+categories: ["Pokemon VGC"]
 description: "This is meta description."
 draft: false
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Sample project 3"
-date: 2019-05-12T12:14:34+06:00
+title: "Ozine Fest Winter Festival Pokemon Sword and Shield Tournament"
+date: 2019-12-12T12:14:34+06:00
 image: "images/portfolio/item-3.png"
-client: "Grandaddy"
-project_url : "https://examplesite.com/"
-categories: ["Valorant"]
+client: "PKMN-ph: Pokémon Philippines"
+project_url : "https://www.youtube.com/playlist?list=PLppQDFBzuYPowCE7vzWjsutOhMpqhdrSW"
+categories: ["Pokemon VGC"]
 description: "This is meta description."
 draft: false
 ---

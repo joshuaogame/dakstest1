@@ -1,10 +1,10 @@
 ---
-title: "Sample project 8"
-date: 2019-05-12T12:14:34+06:00
+title: "SCPH Brood War League"
+date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item-3.png"
-client: "Grand"
-project_url : "https://examplesite.com/"
-categories: ["Pokemon"]
+client: "SCPH"
+project_url : "https://www.twitch.tv/collections/b5ZQU_tADhZ9iQ"
+categories: ["Starcraft II"]
 description: "This is meta description."
 draft: false
 ---
