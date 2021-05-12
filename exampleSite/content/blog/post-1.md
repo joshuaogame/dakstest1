@@ -1,7 +1,7 @@
 ---
 title: "What if Overwatch became “Free-to-Play” at Net Cafes in the Philippines?"
 date: 2017-09-12T12:14:34+06:00
-image: "images/blog/blog1.jpg"
+image: "images/blog/blog1.jpeg"
 description: "Speculating and weighing how an adoption of a similar structure as the PC Bangs in Korea could affect the Overwatch scene in the country, and how feasible it is."
 draft: false
 ---

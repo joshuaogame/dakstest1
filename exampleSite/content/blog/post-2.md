@@ -1,7 +1,7 @@
 ---
 title: "A Look Back at how Changes to Blizzard’s Policies Eased the Hacker Problem in Asia"
 date: 2017-08-12T12:14:34+06:00
-image: "images/blog/post-2.jpg"
+image: "images/blog/blog2.jpeg"
 description: "What’s an Aimbot?"
 draft: false
 ---
