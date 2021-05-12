@@ -13,10 +13,10 @@ skill:
   title: Skills
   item:
   - title: Creativity
-    progress: 90%
+    progress: 95%
     color: "#fdb157"
   - title: Proofreading
-    progress: 90%
+    progress: 95%
     color: "#9473e6"
   - title: Graphics
     progress: 90%
@@ -48,9 +48,6 @@ education:
   enable: true
   title: Education
   item:
-  - title: Masters
-    year: "2020"
-    academy: Bunak International
   - title: Bachelor of Arts in History, Minor in Education
     year: "2015"
     academy: Ateneo de Manila University
@@ -65,19 +62,19 @@ service:
   title: Services
   item:
   - title: Casting
-    icon: ti-palette
+    icon: ti-microphone
     content: Sample description
     highlighted: true
   - title: Production
-    icon: ti-vector
+    icon: ti-video-clapper
     content: Sample description
     highlighted: false
   - title: Tournament administration
-    icon: ti-panel
+    icon: ti-user
     content: Sample description
     highlighted: false
   - title: Esports journalism
-    icon: ti-panel
+    icon: ti-book
     content: Sample description
     highlighted: false
 portfolio:
@@ -108,6 +105,30 @@ clients_logo_slider:
   - logo: images/clients-logo/client-steelseries.png
     URL: "#"
   - logo: images/clients-logo/client-zowie.png
+    URL: "#"
+  - logo: images/clients-logo/client-bren.png
+    URL: "#"
+  - logo: images/clients-logo/client-tncevents.jpg
+    URL: "#"
+  - logo: images/clients-logo/client-gariath.jpg
+    URL: "#"
+  - logo: images/clients-logo/client-esl.jpg
+    URL: "#"
+  - logo: images/clients-logo/client-globe.png
+    URL: "#"
+  - logo: images/clients-logo/client-sibol.png
+    URL: "#"
+  - logo: images/clients-logo/client-akg.png
+    URL: "#"
+  - logo: images/clients-logo/client-tp.jpg
+    URL: "#"
+  - logo: images/clients-logo/client-io.jpg
+    URL: "#"
+  - logo: images/clients-logo/client-pvp.png
+    URL: "#"
+  - logo: images/clients-logo/client-valorantph.jpg
+    URL: "#"
+  - logo: images/clients-logo/client-oasis.png
     URL: "#"
 blog:
   enable: true
