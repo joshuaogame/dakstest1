@@ -1,7 +1,7 @@
 ---
 title: "PGP Roll Play Gaming Lounge VGC 2020 Tournament"
 date: 2020-03-12T12:14:34+06:00
-image: "images/portfolio/item-8.png"
+image: "images/portfolio/pgprppkmn.png"
 client: "PGP"
 project_url : "https://www.facebook.com/watch/live/?v=2914979321912894&ref=watch_permalink"
 categories: ["Pokemon VGC"]

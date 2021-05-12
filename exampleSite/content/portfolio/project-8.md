@@ -1,7 +1,7 @@
 ---
 title: "SCPH Brood War League"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
+image: "images/portfolio/scphbwl.png"
 client: "SCPH"
 project_url : "https://www.twitch.tv/collections/b5ZQU_tADhZ9iQ"
 categories: ["Starcraft II"]
