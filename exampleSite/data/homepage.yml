@@ -83,7 +83,7 @@ service:
 portfolio:
   enable: true
   title: Portfolio
-  item_show: "5"
+  item_show: "6"
 testimonial:
   enable: false
   title: Testimonials
@@ -98,7 +98,7 @@ clients_logo_slider:
   - logo: images/clients-logo/client-riotgames.png
     URL: "#"
   - logo: images/clients-logo/client-amd.png
-    URL: http://examplesite.com
+    URL: "#"
   - logo: images/clients-logo/client-aorus.png
     URL: "#"
   - logo: images/clients-logo/client-tv5.png
