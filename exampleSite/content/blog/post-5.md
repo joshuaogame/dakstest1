@@ -12,7 +12,7 @@ While this may come as a surprise to many, Caladbolg has been shifting away from
 
 After his announcement, I was able to contact Caladbolg and ask him a few questions about his entry and exit from Overwatch, his stay with Mineski, his plans for the future, and his opinion of the future of Overwatch in the country:
 
-When did you make the shift into Overwatch and why this game?
+<i> When did you make the shift into Overwatch and why this game? </i>
 
 As far as I can remember, I was on the verge of reaching Masters in League Of Legends (I’m a D1 Scrub only) when my friend SuperLocs invited me to play Overwatch. It was the 3rd day of the Open Beta Test release and that experience was why I rushed to buy the game. I chose the game because it is a product by a massive company, Blizzard.
 
