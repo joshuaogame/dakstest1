@@ -32,7 +32,7 @@ phone = "(+63)922-885-3268"
 theme_color = "#4ca64c"
 [params.contact]
 enable = true
-form_action = "https://formspree.io/f/xjvjykqb"
+form_action = "https://formspree.io/f/moqyejvw"
 [params.cookies]
 enable = true
 expire_days = 2
