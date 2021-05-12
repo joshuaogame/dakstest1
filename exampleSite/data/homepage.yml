@@ -15,29 +15,33 @@ skill:
   - title: Creativity
     progress: 90%
     color: "#fdb157"
-  - title: Sample skill 1
-    progress: 60%
+  - title: Proofreading
+    progress: 90%
     color: "#9473e6"
-  - title: Sample skills 2
-    progress: 80%
+  - title: Graphics
+    progress: 90%
     color: "#bdecf6"
   - title: Microsoft Office
-    progress: 85%
+    progress: 90%
     color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Sample Experience
-    company: Sample Company
+    title: Esports commentary
+    company: Freelance
     duration: Jul 2017 - Present
   - logo: images/experience/icon-2.png
-    title: Esports Caster and Content Creator
+    title: Content creation
     company: Freelance
     duration: Jul 2017 - Present
   - logo: images/experience/icon-1.png
-    title: Social Media, Community, and Team Manager
+    title: Social media management
+    company: Freelance
+    duration: Jul 2017 - Present
+  - logo: images/experience/icon-1.png
+    title: Article writing
     company: Freelance
     duration: Jul 2017 - Present
 education:
@@ -60,15 +64,19 @@ service:
   enable: true
   title: Services
   item:
-  - title: Caster
+  - title: Casting
     icon: ti-palette
     content: Sample description
-    highlighted: false
-  - title: Sample service 2
+    highlighted: true
+  - title: Production
     icon: ti-vector
     content: Sample description
-    highlighted: true
-  - title: Sample service 3
+    highlighted: false
+  - title: Tournament administration
+    icon: ti-panel
+    content: Sample description
+    highlighted: false
+  - title: Esports journalism
     icon: ti-panel
     content: Sample description
     highlighted: false
@@ -77,7 +85,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: 'Grand'

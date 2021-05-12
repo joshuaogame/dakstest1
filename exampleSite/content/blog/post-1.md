@@ -1,9 +1,38 @@
 ---
-title: "Sample blog 1"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
-description: "This is meta description."
+title: "What if Overwatch became “Free-to-Play” at Net Cafes in the Philippines?"
+date: 2017-09-12T12:14:34+06:00
+image: "images/blog/blog1.jpg"
+description: "Speculating and weighing how an adoption of a similar structure as the PC Bangs in Korea could affect the Overwatch scene in the country, and how feasible it is."
 draft: false
 ---
 
-Sample description
+Speculating and weighing how an adoption of a similar structure as the PC Bangs in Korea could affect the Overwatch scene in the country, and how feasible it is.
+
+“Pang mayaman, pang elitista.” (For the rich, for the elite.) These were sentiments I heard in the past Heroes Uprising Tournament.
+
+With a higher cost of entry, Overwatch proves to be the most inaccessible of all the Multiplayer-based shooters. The Philippines is a country dominated by Free-to-Play games of the MOBA and MMORPG markets. The MOBA genre is topped by LoL and Dota 2, with LoL having a significant market share with their own client, and Dota 2 accounting for 89% of all current Steam usage in the country. MMO’s have always been a cornerstone of Filipino game time, with Free-to-Play games of the RPG and FPS genres a staple for lower-end computers. Mobile Gaming is also an enormous market in the Philippines, especially with games such as Mobile Legends and Clash of Clans. Modern shooters are a smaller market, with Overwatch struggling to pull in players from other games in the same niche.
+
+Comparing Overwatch to the above other modern multiplayer shooters, it is noticeable that Overwatch costs the most. In South Korea, the barrier of entry is shattered due to a deal between PC Bangs and Blizzard Korea. PC Bangs, the gaming centers in Korea, have top of the line computers that are given licenses of the game. This means that any account logged into a PC Bang is allowed free access to Overwatch, as long as they are playing at the PC Bang and paying for the time they spend there. If they want to play outside a PC Bang they have to buy a license for the game like everyone else. While this system has caused problems in the past, primarily hackers, policy changes implemented by Blizzard have fixed this.
+
+With South Korea setting an example, could net cafes in the Philippines follow suit?
+
+Possibilities
+In Manila, many of the newer net cafes have memberships which allow you to log in on any of the computers, provided your account has funds loaded in it. This is especially true to the biggest franchises in the region, Mineski Infinity and TNC. Their computers have capable specifications and already have all the Blizzard games installed, including Overwatch. Their internet connections are also top of the line, providing stable internet in a country plagued with sub-par infrastructure. With Overwatch needing a good computer and connection, these franchises can provide that.
+
+If a partnership with Blizzard can be put in place, these franchises can then set to work with pulling in players. Overwatch is a popular form of media, with the characters memorable to both players and non-players alike. On Facebook, Overwatch has Filipino groups numbering in the thousands. With a free option, Overwatch can now also close the gap with the games in its specific niche. It would prove to be a faster-paced alternative to both CS:GO and PUBG. It could also cannibalize the player base of Paladins, as a popular yet incorrect opinion for the game is that it is a “free Overwatch”. Marketing with the support of brands such as Acer-Predator and Asus-ROG could also be attained, due to their interest in growing esports in the Philippines, including Overwatch.
+With these factors all coming together, the market for Overwatch could soar. The scene would flourish and be injected with new talent, unhampered by the cost of entry of the game, the computer specifications, and the internet. However, there are pitfalls to contend with as well…
+
+Pitfalls
+The most obvious pitfall of Overwatch going Free-to-Play in computers shops would be the location of the major franchises. Mineski Infinity and TNC are both heavily concentrated in Manila, with sporadic stores within the provinces. While there are some independent net cafes that can handle Overwatch on their computers, there are those that struggle to play more modern games. These computer shops in the provinces stick to low specifications for games with a matching lower price. The only feasible way to play Overwatch in optimal conditions would be to flock to the capital, which many aspiring players would not be willing to sacrifice for.
+
+The internet connections outside of Manila would also prove to be a pitfall. The internet speeds within the provinces are limited compared to the maximum speeds in the capital. As Overwatch is heavily dependent on a stable and good quality connection, many players would be frustrated by a frequent “Lost Connection to Game Server” errors. Going back to Manila, as of writing, a major factor that is hampering Overwatch is the cut undersea cables that transmit the internet data. Many players are forced to either use VPN’s to fix this or have stopped playing the game entirely. With the Philippines falling below regional and global standards for internet, many players would not have good gaming experiences on the Blizzard servers and would stop playing the game for good.
+
+A final pitfall would be if a partnership with Blizzard is established, previous problems would rise once again. Due to the Philippines not having a national ID system, there would be no rigid system to keep people from registering multiple memberships at the net cafes. With free access, cheaters could download hacks for the game and cheat in Overwatch with no real repercussions to them. If their cheating account gets banned, they can make a new one free of charge using a different email. Blizzard would have to make even more re-adjustments to their policies, and they will not have any established government assistance behind them for this country.
+
+With Korean internet infrastructure leading the globe and Blizzard’s rich history of esports in Korea, it makes sense that they devised an arrangement with PC Bangs. The government of Korea is strict and takes gaming and esports very seriously, creating laws against cheat makers. Blizzard needs to keep a foothold in an established market that their games, including Overwatch, could take advantage of.
+
+On the other hand, the Filipino esports scene is still growing and the infrastructure is still trying to catch up. While the Philippine government is taking steps to grow the esports scene, including athletic licenses, it is still miles behind Korea. The market and impact of the Philippines pale in comparison of Korea’s, and Blizzard would be hesitant to invest in an unsure area.
+
+However, with the improvements of the major net cafe chains in place, a smaller-scale operation could be possible. A higher-end net cafe or a specific branch of a chain could provide accounts for each of their computers for free play at their place. By bringing the login straight to the game through the executive file and hiding the Blizzard Application, in conjunction with the Blizzard Authenticator, they can safeguard the accounts from the passwords being changed. The net cafe could also create its own terms and conditions, setting penalties for those who cheat with the free accounts. It would be a selling point specifically for that net cafe and would bring in their target consumers. These would be players who would want to try the game out before buying it for themselves and then play the game with their main account instead.
+
+Sadly, an arrangement like this would be a costly investment and would not reduce any notions of Overwatch being a “game for the rich or elite”. Overwatch is currently a niche game in this country, and various factors would need to change to improve that. More tournaments in the region would need to be established or a Filipino team would need to have considerable international success to attract a commitment from many potential players and sponsors. However, a small step or investment from a net cafe or brand could be the first step in making Overwatch a bigger scene in the country.
