@@ -1,7 +1,7 @@
 ---
 title: "Ozine Fest Winter Festival Pokemon Sword and Shield Tournament"
 date: 2019-12-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
+image: "images/portfolio/ozinepkmn.png"
 client: "PKMN-ph: Pokémon Philippines"
 project_url : "https://www.youtube.com/playlist?list=PLppQDFBzuYPowCE7vzWjsutOhMpqhdrSW"
 categories: ["Pokemon VGC"]

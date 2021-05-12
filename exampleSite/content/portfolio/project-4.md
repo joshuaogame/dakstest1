@@ -1,7 +1,7 @@
 ---
 title: "PKMN PH x METV PH Sw/Sh CGC 2020 Event"
 date: 2020-01-12T12:14:34+06:00
-image: "images/portfolio/item-5.png"
+image: "images/portfolio/cgcpkmn.png"
 client: "VGC 2020"
 project_url : "https://www.facebook.com/100002887845686/posts/2347170698722502/?d=n"
 categories: ["Pokemon VGC"]
