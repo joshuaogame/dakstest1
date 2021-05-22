@@ -1,24 +1,47 @@
 ---
-title: "FenHarel Wins the 1v1 Heroes Uprising Tournament!"
-date: 2017-08-30T12:14:34+06:00
+title: "Overwatch Contenders Season 1 has Begun!"
+date: 2017-08-21T12:14:34+06:00
 image: "images/blog/blog6.jpeg"
-description: "3 days of Overwatch action at AsiaPOP Comicon 2017."
+description: "A Q&A with the legendary Mineski captain as he hangs up his Dragonblade."
 draft: false
 ---
 
-Within AsiaPOP Comicon 2017, Predator Philippines hosted a tournament to showcase Overwatch players in 1v1 Limited Duel action. Spanning three days, 32 participants signed up for the event. On the first and second day (August 25 & 26), there were 16 players battling each other in a single elimination format. On each day, four rose up from the rest and moved on to the finals, which happened on August 27. Eight contestants clashed on the last day, with Daniel “FenHarel” Laguerta of Rekt Esports bringing home the grand prize- an Acer Predator 15 laptop.
+With the search for a new player since last August 9, 2017, speculations were rampant on who was leaving the Mineski-Overwatch team. A week later, the news broke- Justin “Caladbolg” Limbo, the team captain, announced his retirement from Overwatch professional gaming. Here is his official announcement on his Facebook page:
 
+While this may come as a surprise to many, Caladbolg has been shifting away from Overwatch for quite a while. He has been playing, producing and streaming PlayerUnknown’s Battlegrounds (PUBG) content before the announcement. He also allowed his seasonal rank in Overwatch to decay to the lowest decay threshold of 3000 SR, showing inactivity from Competitive Play. He deranked from the top tiers of Master/Grandmaster all the way down to Diamond.
 
-Recapping the preliminaries, the first day had notable names within the brackets. Caladbolg, the former team captain of Mineski-Overwatch, came out of retirement to take part in the tournament. Whome, the current captain of Mineski, also participated, and the expectation was that the two would clash in the finals for the day. Both fell in the second round, in down to the wire situations in their best of 3’s. Their opponents, Metannica and MajinDayo, dubbed as the “Mineski-Slayers”, snatched the slots in the top four. Alongside them were Fatal Faction’s (formerly Sapnu Puas) DodgeThiss and Feint. The two Fatal Faction players moved on to face each other in the finals, with DodgeThiss securing a sweep against Feint with a score of 3–0.
+After his announcement, I was able to contact Caladbolg and ask him a few questions about his entry and exit from Overwatch, his stay with Mineski, his plans for the future, and his opinion of the future of Overwatch in the country:
 
-Day 2 of the 1v1 Heroes Uprising Tournament (August 26).
-The second day proved to have even more high-caliber players and games. Grand, Xenos, and Fascinate, all players of Miraculum, participated. Fascinate and Grand (who beat Xenos in a close match) moved on to the final four, with Yoyong and FenHarel of Rekt Esports joining them. Grand and Fascinate then beat their respective opponents and had a great match-up in the finals. Grand took the early lead, taking the first two maps with authority. Fascinate then bounced back, taking key match-ups, and completed the reverse sweep to take the series 3–2. While for both days the final four moved on as soon as they reached the semifinals, Predator Philippines provided prizes for the first, second and third places of each day.
+When did you make the shift into Overwatch and why this game?
 
+>As far as I can remember, I was on the verge of reaching Masters in League Of Legends (I’m a D1 Scrub only) when my friend SuperLocs invited me to play Overwatch. It was the 3rd day of the Open Beta Test release and that experience was why I rushed to buy the game. I chose the game because it is a product by a massive company, Blizzard.
 
-The final day had the eight finalists salivating at the thought of bringing home the Predator 15 laptop. FenHarel, in a complete 180 after a night to reset himself, put on a clinical display against Fascinate. FenHarel then faced off against and defeated Metannica. Prior to fighting FenHarel, Metannica died to the only ultimate of the tournament, the Tactical Visor used by Yoyong in their first round match. On the other side of the bracket, Feint defeated MajinDayo while DodgeThiss beat Grand in a tight match. In a rematch of the first-day finals, Feint relied on exceptional Soldier:76 play to beat DodgeThiss to move on to the finals to face FenHarel.
+How did it feel it when your ANBU Gaming was picked up and sponsored by Mineski?
 
+>It felt surreal because it was always our dream to be professional gamers and we didn’t even imagine to be acquired by a recognized company such as Mineski.
 
-The Grand Finals of the 1v1 tournament was a contested match-up. Feint relied on his comfort DPS picks against FenHarel, overpowering him with a strong offense. FenHarel bounced back with key victories in Tracer mirror matchups. FenHarel also provided better flexibility, taking rounds from Feint with strong showings using Tank and Support picks. FenHarel and Feint put each other to the limit, forcing the 5th map after a 2–2 score. FenHarel took the series in an Orisa vs. Junkrat matchup on the final match point, bringing home the Predator 15 laptop.
+After a whole year of being under Mineski, what made you retire from the Mineski-Overwatch team?
 
+>I think everyone knows that aside from being a professional gamer, I’m also a Registered Nurse. Now, I’m planning to pursue the latter and we’ll see where will I end up in this path.
 
-After his victory, I was able to conduct a short interview FenHarel. He thanked the support of his friends, especially those who were there for him the night before the grand finals. As he was looking around for specific people, a good part of the crowd chanted “Good job!” at him, to his delight. When asked about what characters he relied on, he noted his Soldier:76 play delivering for him, and that he got a hot streak on Tracer. He was unsure about the Tracer match-up at first, but he grew more confident as he kept winning the mirror match-up. He also commended Feint on his strength, noting his participation in the upcoming SEA Open Division and his rank of Masters. This did not deter him in any way though, as his mindset throughout the whole tournament was that “this was a 1v1”, and as such, it was possible to push himself to win. And that he did.
+What compelled you to walk-away from Overwatch; was it burnout/fatigue from the game, a lack of success in the scene or in results, or something else?
+
+>Not burnout because I still have the passion, as gaming is my #1 passion. I always make that clear to myself. I can’t say that we lacked success, since we just recently won the largest OW tournament here in the Philippines. We might not be that successful when playing internationally, but we always make sure that we never go down without a fight. It’s just that there are certain things in life that will make you decide which path to choose, but I know for myself that whatever career I choose, it will always be for my family.
+
+Was your run with Mineski-Overwatch a positive or a negative experience?
+
+>It was a positive experience 100%! Every bit of being a pro-gamer is a lot of fun especially if its your passion. There might be ups and downs with the wins and losses, but my team is like my 2nd home. Whatever happens I will always find happiness in it.
+
+What was the most memorable moment of your stay in Mineski-Overwatch?
+
+>My stay in Mineski Bootcamp! Where all our needs are provided and It’s like our 2nd family. We treat each other as brothers, not only for my team but for the other Mineski teams as well.
+
+Are you completely retiring from the Overwatch scene? From esports?
+
+>I think for the Overwatch scene, yes. From esports though… I’m not really sure, as we don’t know what’ll happen in the future. I’m not closing my doors completely.
+
+Do you think that Overwatch still has a future in the Philippines?
+
+>Yes, definitely yes! It might not be this year or next year but I’m pretty sure that Overwatch will have its reign in the Philippines. It’s a new game, and all popular games nowadays like LoL or Dota2 somewhat started like this. There might be negative news that some teams are dropping its rosters but we’ll never know, Overwatch League is on the way and everyone has high hopes for it!
+
+The Philippine Overwatch scene will miss Caladbolg for his skill and explosiveness. His play on his signature heroes of Reaper, Roadhog, and Genji provided many amazing moments for us to enjoy and be awed by. With a mastery of a flexible hero pool and his leadership, he was a great asset to the Mineski-Overwatch team. With his new pursuit of nursing, he would be the one doing the healing instead of needing it, and we wish him the best in his future.

@@ -1,5 +1,5 @@
 ---
-title: "Heroes Uprising Group Stage: Who Moved on to the Finals?"
+title: "Mineski-Overwatch wins the Heroes Uprising 2017 Tournament."
 date: 2017-08-12T12:14:34+06:00
 image: "images/blog/blog4.jpeg"
 description: "Rising above all!"
