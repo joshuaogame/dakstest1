@@ -1,7 +1,7 @@
 ---
 title: "Caladbolg’s Overwatch Career Comes to an End"
 date: 2017-08-12T12:14:34+06:00
-image: "images/blog/blog4.jpeg"
+image: "images/blog/blog5.jpeg"
 description: "A Q&A with the legendary Mineski captain as he hangs up his Dragonblade."
 draft: false
 ---
