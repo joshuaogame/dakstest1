@@ -1,7 +1,7 @@
 ---
 title: "Overwatch League Pre-Stage 2 Power Rankings"
 date: 2018-02-21T12:14:34+06:00
-image: "images/blog/blog31.png"
+image: "images/blog/blog30.png"
 description: "This Filipino caster’s opinion on how the teams stack up in order."
 draft: false
 ---

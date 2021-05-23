@@ -1,7 +1,7 @@
 ---
 title: "Overwatch League Stage 2 Week 2 Power Rankings"
 date: 2018-02-21T12:14:34+06:00
-image: "images/blog/blog33.jpg"
+image: "images/blog/blog32.jpg"
 description: "The Outlaws seem to be the dead rather than the quick, while the NYXL come back to form."
 draft: false
 ---

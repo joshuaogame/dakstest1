@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Year of the Dog is Here!"
 date: 2018-02-09T12:14:34+06:00
-image: "images/blog/blog29.jpeg"
+image: "images/blog/blog28.jpeg"
 description: "A run-through of all the festive celebrations in store for the Overwatch community alongside interface and balance changes."
 draft: false
 ---

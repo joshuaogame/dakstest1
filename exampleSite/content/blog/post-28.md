@@ -1,7 +1,7 @@
 ---
 title: "The Overwatch Path to Pro Starts!"
 date: 2017-10-31T12:14:34+06:00
-image: "images/blog/blog27.jpeg"
+image: "images/blog/blog26.jpeg"
 description: "The 2018 season of the Overwatch Open Division has begun!"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Overwatch League Stage 2 Week 4 Power Rankings"
 date: 2018-02-21T12:14:34+06:00
-image: "images/blog/blog37.jpg"
+image: "images/blog/blog34.jpg"
 description: "The Dynasty falter and the Valiant and Outlaws fall together, while the Mayhem and the Shock show their mettle."
 draft: false
 ---

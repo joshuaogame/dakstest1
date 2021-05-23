@@ -1,7 +1,7 @@
 ---
 title: "Overwatch League Stage 2 Week 3 Power Rankings"
 date: 2018-02-21T12:14:34+06:00
-image: "images/blog/blog34.jpg"
+image: "images/blog/blog33.jpg"
 description: "The Fuel implodes and Houston tumbles down the rankings while the LA Gladiators get a huge thumbs up."
 draft: false
 ---

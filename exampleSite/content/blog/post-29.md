@@ -1,7 +1,7 @@
 ---
 title: "Mineski-Overwatch Disbands!"
 date: 2018-01-17T12:14:34+06:00
-image: "images/blog/blog28.jpeg"
+image: "images/blog/blog27.jpeg"
 description: "Reasons include ongoing roster issues and a lack of tournaments in the local scene."
 draft: false
 ---

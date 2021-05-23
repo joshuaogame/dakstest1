@@ -1,7 +1,7 @@
 ---
 title: "The Story of Team Philippines and their Overwatch World Cup 2019 Run"
 date: 2021-05-12T12:14:34+06:00
-image: "images/blog/blog38.jpg"
+image: "images/blog/blog35.jpg"
 description: "The Dynasty falter and the Valiant and Outlaws fall together, while the Mayhem and the Shock show their mettle."
 draft: false
 ---
