@@ -49,14 +49,14 @@ education:
   title: Education
   item:
   - title: Bachelor of Arts in History, Minor in Education
-    year: "2015"
+    year: "2016"
     academy: Ateneo de Manila University
   - title: Secondary Education
-    year: "2015"
-    academy: Orca Ninja School
+    year: "2012"
+    academy: Philippine Science High School System
   - title: Primary Education
     year: "2007"
-    academy: Bunak Primary school
+    academy: Ateneo de Manila University
 service:
   enable: true
   title: Services
