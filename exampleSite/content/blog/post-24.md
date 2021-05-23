@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Open Division Season 2, Week Seven Recap (Filipino Teams)"
 date: 2017-10-20T12:14:34+06:00
-image: "images/blog/blog24.png"
+image: "images/blog/blog23.png"
 description: "Miraculum vs. J3X Eternity in a battle for a playoff spot!"
 draft: false
 ---

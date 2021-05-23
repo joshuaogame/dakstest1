@@ -1,7 +1,7 @@
 ---
 title: "Big Updates to the Overwatch League!"
 date: 2017-09-29T12:14:34+06:00
-image: "images/blog/blog13.png"
+image: "images/blog/blog12.png"
 description: "San Francisco announces its roster in superstar fashion, while Shanghai unveils their logo and branding."
 draft: false
 ---

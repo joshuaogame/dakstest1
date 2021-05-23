@@ -1,7 +1,7 @@
 ---
 title: "The Dallas Fuel are Ready to Go!"
 date: 2017-10-07T12:14:34+06:00
-image: "images/blog/blog16.png"
+image: "images/blog/blog15.png"
 description: "Mineski and Miraculum finally clash to see who is the superior Filipino team."
 draft: false
 ---

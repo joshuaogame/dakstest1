@@ -1,7 +1,7 @@
 ---
 title: "A Filipino Team Qualifies for the Red Bull Coliseum Overwatch Tournament!"
 date: 2017-10-07T12:14:34+06:00
-image: "images/blog/blog17.png"
+image: "images/blog/blog16.png"
 description: "Miraculum will participate in a LAN event in Kuala Lumpur!"
 draft: false
 ---

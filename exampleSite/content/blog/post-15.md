@@ -1,7 +1,7 @@
 ---
 title: "Mineski and Miraculum finally clash to see who is the superior Filipino team."
 date: 2017-10-04T12:14:34+06:00
-image: "images/blog/blog15.png"
+image: "images/blog/blog14.png"
 description: "Mineski and Miraculum finally clash to see who is the superior Filipino team."
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Los Angeles Valiant have Descended!"
 date: 2017-10-20T12:14:34+06:00
-image: "images/blog/blog23.jpeg"
+image: "images/blog/blog22.jpeg"
 description: "The fourth Overwatch League team reveals itself under the city of angels."
 draft: false
 ---

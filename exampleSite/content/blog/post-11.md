@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Open Division Season 2, Week Two Recap (Filipino Teams)"
 date: 2017-09-23T12:14:34+06:00
-image: "images/blog/blog11.png"
+image: "images/blog/blog10.png"
 description: "Miraculum faces off against GameHome, while the other Filipino teams struggle with technical problems."
 draft: false
 ---

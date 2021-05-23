@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Open Division Season 2, Week Three Recap (Filipino Teams)"
 date: 2017-09-25T12:14:34+06:00
-image: "images/blog/blog12.png"
+image: "images/blog/blog11.png"
 description: "Mineski takes on Bazaar off-stream, while Miraculum gets the default win after Fatal Faction disbands."
 draft: false
 ---

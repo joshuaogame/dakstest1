@@ -1,7 +1,7 @@
 ---
 title: "A Shocking Development to the Overwatch League!"
 date: 2017-10-18T12:14:34+06:00
-image: "images/blog/blog21.png"
+image: "images/blog/blog20.png"
 description: "The San Francisco Shock has been unveiled!"
 draft: false
 ---

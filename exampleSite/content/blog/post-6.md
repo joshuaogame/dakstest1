@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Contenders Season 1 has Begun!"
 date: 2017-08-21T12:14:34+06:00
-image: "images/blog/blog6.jpeg"
+image: "images/blog/contenderspng.png"
 description: "A Q&A with the legendary Mineski captain as he hangs up his Dragonblade."
 draft: false
 ---

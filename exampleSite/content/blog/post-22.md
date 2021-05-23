@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Open Division Season 2, Week Six Recap (Filipino Teams)"
 date: 2017-10-20T12:14:34+06:00
-image: "images/blog/blog22.png"
+image: "images/blog/blog21.png"
 description: "Mineski faces off against OWOL as Miraculum took the forfeit win."
 draft: false
 ---

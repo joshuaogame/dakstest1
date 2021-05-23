@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Halloween Terror 2017 is Here!"
 date: 2017-10-07T12:14:34+06:00
-image: "images/blog/blog18.png"
+image: "images/blog/blog17.png"
 description: "With it comes a drastic change to ultimates in Overwatch."
 draft: false
 ---

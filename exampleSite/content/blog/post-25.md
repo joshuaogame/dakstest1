@@ -1,7 +1,7 @@
 ---
 title: "The Uprising and the Dynasty!"
 date: 2017-10-31T12:14:34+06:00
-image: "images/blog/blog26.png"
+image: "images/blog/blog24.png"
 description: "Two new team brands have been unveiled for the Overwatch League."
 draft: false
 ---

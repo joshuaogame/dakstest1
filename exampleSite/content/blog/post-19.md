@@ -1,7 +1,7 @@
 ---
 title: "Garena’s Arena of Valor Awaits!"
 date: 2017-10-16T12:14:34+06:00
-image: "images/blog/blog19.png"
+image: "images/blog/blog18.png"
 description: "Pre-registration is open for Garena’s upcoming Mobile MOBA."
 draft: false
 ---

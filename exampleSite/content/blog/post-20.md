@@ -1,7 +1,7 @@
 ---
 title: "Check Out These Fan-Made Maps Inspired by Overwatch!"
 date: 2017-10-18T12:14:34+06:00
-image: "images/blog/blog20.png"
+image: "images/blog/blog19.png"
 description: "An interview with the artist on why he chose Overwatch’s design and his future."
 draft: false
 ---

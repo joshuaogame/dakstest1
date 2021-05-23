@@ -1,7 +1,7 @@
 ---
 title: "Rosters Unlocked for Overwatch Open Division Season 2!"
 date: 2017-09-9T12:14:34+06:00
-image: "images/blog/blog9.png"
+image: "images/blog/blog8.png"
 description: "A sudden change of rules prior to the start of this week."
 draft: false
 ---

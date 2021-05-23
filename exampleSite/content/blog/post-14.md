@@ -1,7 +1,7 @@
 ---
 title: "The TaskUs Titans are Here!"
 date: 2017-09-30T12:14:34+06:00
-image: "images/blog/blog14.jpeg"
+image: "images/blog/blog13.jpeg"
 description: "The official launch of the team at the High Grounds Cafe."
 draft: false
 ---

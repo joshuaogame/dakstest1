@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Open Division Season 2, Week One Recap (Filipino Teams)"
 date: 2017-09-17T12:14:34+06:00
-image: "images/blog/blog10.png"
+image: "images/blog/blog9.png"
 description: "A battle for local supremacy between Mineski and Fatal Faction, while Miraculum faced off against Singapore’s BBONG."
 draft: false
 ---
