@@ -1,7 +1,7 @@
 ---
 title: "MY TOP VALORANT PH TEAMS AT THE END OF EPISODE 1"
 date: 2021-01-14T12:14:34+06:00
-image: "images/blog/valorantpost.jpg"
+image: "images/blog/valorantpost.png"
 description: ""
 draft: false
 ---
