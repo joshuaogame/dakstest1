@@ -1,7 +1,7 @@
 ---
 title: "Team Tales of Triumphs and Tragedies (Overwatch League Stage 1)"
 date: 2018-02-21T12:14:34+06:00
-image: "images/blog/blog29.jpeg"
+image: "images/blog/blog29.png"
 description: "Highlighting the teams that impressed (and unimpressed) in the first stage of the Overwatch League as Stage 2 looms."
 draft: false
 ---
