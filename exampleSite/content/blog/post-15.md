@@ -1,5 +1,5 @@
 ---
-title: "The TaskUs Titans are Here!"
+title: "Mineski and Miraculum finally clash to see who is the superior Filipino team."
 date: 2017-10-04T12:14:34+06:00
 image: "images/blog/blog15.png"
 description: "Mineski and Miraculum finally clash to see who is the superior Filipino team."
