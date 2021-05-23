@@ -1,5 +1,5 @@
 ---
-title: "Overwatch League Pre-Stage 2 Power Rankings"
+title: "Overwatch League Stage 2 Week 1 Power Rankings"
 date: 2018-02-21T12:14:34+06:00
 image: "images/blog/blog31.png"
 description: "The Fusion is on the surge with Eqo, the Uprising do everything except their namesake, and New York’s front line moves to the back role."
